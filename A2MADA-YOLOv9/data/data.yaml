@@ -12,4 +12,4 @@ test_labels: ./FINet/labels/test
 is_coco: False
 # Classes
 nc: 3  # number of classes
-names: ['normal_insulator', 'defective_insulators', 'insulators_fault']  # class names
+names: ['Normal_insulator', 'Defective_insulator', 'Insulators_fault']  # class names
